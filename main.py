@@ -27,7 +27,7 @@ def clear():
 
 TOKEN = os.environ['tokenn']
 
-token = (TOKEN)
+token = (Nzg2MTQ0NjU3ODUwNzYxMjE3.YlmEuw.GpfuydnbiW6Hjj-wZRAbU9XNXzk)
 
 ping = False
 
